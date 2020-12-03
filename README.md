@@ -12,6 +12,7 @@ Os dados podem ser encontrados para download no repositório de dados eleitorais
 
 ## Resultados obtidos:
 
+> Clique nas imagens para visualizar em alta resolução.
 
 ![Partidos Mais Votados Brasil - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Brasil%202020.png)
 
