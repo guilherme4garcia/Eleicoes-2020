@@ -1,5 +1,5 @@
 
-# Eleições 2020
+# Análise Exploratória de Dados - Eleições 2020
 
 
 Este trabalho é dividido em duas partes, a primeira aponta a predominância dos partidos em diferentes regiões do país, utilizando os resultados das eleições municipais de 2020.  A segunda parte analisa o perfil dos candidatos a prefeito, vice-prefeito e vereador através de três parâmetros: gênero, composição étnica e grau de instrução.
